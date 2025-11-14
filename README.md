@@ -17,11 +17,17 @@ future results. This is the feature variable we will aim to train our models on 
 prediction for the 2024-2025 season. The feature variable’s breakdown is as follows:
 
 ● 0 = The team did not make the play-ins or playoffs
+
 ● 1 = The team made the play-ins but did not make the playoffs
+
 ● 2 = The team made it to the first round of playoffs
+
 ● 3 = The team made it to the conference semi-finals
+
 ● 4 = The team made it to conference finals
+
 ● 5 = The team made it to NBA finals
+
 ● 6 = The NBA champions
 
 Moreover, as part of our data cleaning process within the players’ dataset, we are
